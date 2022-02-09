@@ -2,9 +2,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/luiscabezasdev?style=social)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luiscabezasdev&label=Profile%20views&color=0e75b6&style=flat" alt="luiscabezasdev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luiscabezasdev" alt="luiscabezasdev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/luiscabezasdev" target="blank"><img src="https://img.shields.io/twitter/follow/luiscabezasdev?logo=twitter&style=for-the-badge" alt="luiscabezasdev" /></a> </p>
 
